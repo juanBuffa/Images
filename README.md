@@ -1,4 +1,4 @@
-# Imagenes
+# Images
 
 Web application for image storage and visualization. The frontend is a React single page application created using CRA, the backend is a standalone application developed with Spring Boot, authentication is handled using Auth0, and the images are stored on an Amazon S3 bucket.
 
